@@ -2,5 +2,21 @@
   "name": "hickory-ham",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "bin": {
+    "hickory-ham": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/steoneill/hickory-ham.git"
+  },
+  "author": "Ste <ste.tpe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steoneill/hickory-ham/issues"
+  },
+  "homepage": "https://github.com/steoneill/hickory-ham#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
 }
