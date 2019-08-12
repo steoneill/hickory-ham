@@ -18,5 +18,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "np": "^5.0.3"
+  }
 }
